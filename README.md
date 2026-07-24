@@ -13,10 +13,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CahyaaNindangSaputra/CahyaaNindangSaputra/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CahyaaNindangSaputra/CahyaaNindangSaputra/output/github-contribution-grid-snake.svg">
 </picture>
-
-🕹️ GitHub Contribution Pacman
-<p align="center">
-  <a href="https://github.com/IgorKowalczyk/github-contributions-pacman">
-    <img src="https://raw.githubusercontent.com/IgorKowalczyk/github-contributions-pacman/main/main.gif" alt="Pacman game on GitHub contributions" />
-  </a>
 </p>
